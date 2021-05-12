@@ -1,0 +1,32 @@
+.banner {
+  background-image: url(https://source.unsplash.com/random/1000x500);
+  background-size: cover;
+  color: white;
+  padding: 120px 0;
+}
+
+.container {
+  width: 700px;
+  margin: 50px auto;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #737D8A;
+}
+
+.banner {
+  font-family: 'Itim', cursive;
+  color: pink;
+}
+
+h1 {
+  display: block;
+  font-size: 50px;
+  margin-left: 50px;
+}
+
+p {
+  display: block;
+  font-size: 30px;
+}
